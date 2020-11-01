@@ -12,3 +12,8 @@ nodemon app.js to start the app
 localhost:3000 in the browser to access the app
 
 Cheers : )
+
+## MDN
+
+[getDay](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getDay)
+[Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
